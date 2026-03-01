@@ -7,11 +7,11 @@ A comprehensive analysis of a transactional dataset from a UK-based online retai
 
 ## Research Questions
 
-* **4.1. What is the sales trend over time? Are there seasons/months with higher sales?**
-* **4.2. Who are the top 10% of customers in terms of purchase value? What percentage of total sales do they generate?**
-* **4.3. Market basket analysis: which products are most often purchased together?**
-* **4.4. What is the average order value? How does it change over time? Are there regions/countries with higher AOV?**
-* **4.5. Customer retention: how many customers return after their first purchase? What is the difference between one-time and returning customers in terms of value?**
+* **What is the sales trend over time? Are there seasons/months with higher sales?**
+* **Who are the top 10% of customers in terms of purchase value? What percentage of total sales do they generate?**
+* **Market basket analysis: which products are most often purchased together?**
+* **What is the average order value? How does it change over time? Are there regions/countries with higher AOV?**
+* **Customer retention: how many customers return after their first purchase? What is the difference between one-time and returning customers in terms of value?**
 
 ## Key Insights
 
