@@ -49,7 +49,7 @@ online_retail_dataset/
 1. Clone the repository:
 
     ```bash
-    git clone [https://github.com/tomszy91/online_retail_dataset.git](https://github.com/tomszy91/online_retail_dataset.git)
+    git clone https://github.com/tomszy91/online_retail_dataset.git
     cd online_retail_dataset
     ```
 
