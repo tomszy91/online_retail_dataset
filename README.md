@@ -64,3 +64,7 @@ online_retail/
     ```bash
     jupyter notebook online_retail.ipynb
     ```
+
+## Executive Summary
+
+22.8% of transactions lack a customer ID, indicating data quality issues. The top 10% of customers (mostly UK) account for 55% of sales. Peak activity occurs from September to January, with high retention (75.4%) and returning customers spending 40% more per order. Anomalies in price and quantity reflect business processes, and detected product-pair correlations provide actionable cross-selling opportunities.
